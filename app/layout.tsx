@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: 'Mid-West Corvettes | Great Cars. Even Better Company.',
-  icons: { icon: '/images/mwc-logo.png' },
+  icons: { icon: `${process.env.NEXT_PUBLIC_BASE_PATH || ''}/images/mwc-logo.png` },
   description: 'Corvettes, friends, and community in the Quad Cities since 1960. Discover club events, scenic drive-outs, and membership with Mid-West Corvettes.',
 };
 
