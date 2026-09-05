@@ -1,7 +1,7 @@
 import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = process.env.GITHUB_PAGES === 'true'
-  ? { output: 'export', assetPrefix: process.env.NEXT_PUBLIC_BASE_PATH || '', trailingSlash: true, images: { unoptimized: true } }
+  ? { output: 'export', assetPrefix: process.env.NEXT_PUBLIC_BASE_PATH || '', images: { unoptimized: true } }
   : {};
 
 export default nextConfig;

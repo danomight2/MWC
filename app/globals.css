@@ -82,3 +82,104 @@ main:focus { outline: none; }
   .back-to-top:hover { background: #ffe566; }
   .back-to-top:focus-visible { outline: 3px solid #171917; outline-offset: 3px; }
 }
+
+/* Content pages share the club identity and keep long-form reading comfortable. */
+.footer-directory { display: grid; grid-template-columns: repeat(3, 1fr); gap: 38px; padding-bottom: 40px; }
+.footer-directory nav { display: flex; flex-direction: column; align-items: flex-start; }
+.footer-directory .eyebrow { margin-bottom: 14px; }
+.footer-directory a { font-size: 14px; padding-block: 5px; }
+.footer-directory a:hover { text-decoration: underline; }
+.interior-heading { background: #202620; color: white; padding: 25px 0 60px; }
+.breadcrumbs { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; color: #c4cdba; font-size: 13px; margin-bottom: 43px; }
+.breadcrumbs a { text-decoration: underline; text-underline-offset: 4px; }
+.interior-heading .eyebrow { color: #f5d529; }
+.interior-heading h1 { max-width: 900px; font-size: clamp(2.5rem, 5vw, 4.3rem); line-height: 1.08; font-weight: 700; letter-spacing: -.045em; margin-block: 18px 22px; }
+.interior-lead { max-width: 730px; font-size: 18px; line-height: 1.75; color: #d7ddce; }
+.interior-heading .button { margin-top: 27px; }
+.interior-content { padding-block: 55px 75px; }
+.content-cards { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; margin-bottom: 65px; }
+.content-card { border: 1px solid #dce0d5; background: #fff; transition: border-color .2s, box-shadow .2s; }
+.content-card:hover { border-color: #849176; box-shadow: 0 5px 20px #2022200b; }
+.content-card-copy { padding: 25px; }
+.content-card h2 { display: flex; justify-content: space-between; align-items: flex-start; gap: 15px; font-size: 23px; line-height: 1.3; margin: 0 0 13px; }
+.content-card h2 svg { margin-top: 5px; }
+.content-card p { color: #626b57; font-size: 16px; line-height: 1.75; }
+.content-card > img { width: 100%; height: auto; aspect-ratio: 1.5; object-fit: contain; background: #f3f4f0; }
+.reading-grid { display: grid; grid-template-columns: minmax(0, 2.3fr) minmax(245px, 1fr); gap: 75px; align-items: start; }
+.content-article { min-width: 0; }
+.article-photo { margin: 0 0 44px; }
+.article-photo img { width: 100%; height: auto; }
+.article-photo figcaption { color: #68715d; font-size: 13px; line-height: 1.7; margin-top: 11px; }
+.compact-photo { max-width: 480px; }
+.article-section { scroll-margin-top: 25px; margin-bottom: 45px; }
+.article-section:last-child { margin-bottom: 0; }
+.article-section > h2 { font-size: 29px; line-height: 1.25; margin: 0 0 20px; }
+.article-section > p, .content-bullets { font-size: 17px; line-height: 1.85; color: #545e4a; margin-bottom: 17px; }
+.content-bullets { list-style: disc; padding-left: 25px; }
+.content-bullets li { padding-left: 7px; margin-bottom: 10px; }
+.content-links { border-top: 1px solid #dce0d5; margin-top: 23px; }
+.content-links a { display: flex; justify-content: space-between; align-items: center; gap: 20px; border-bottom: 1px solid #dce0d5; padding: 18px 0; font-size: 16px; font-weight: 600; overflow-wrap: anywhere; }
+.content-links a:hover { color: #726000; }
+.content-links small { display: block; color: #6d7663; font-weight: 400; font-size: 13px; margin-top: 4px; }
+.content-aside { border-left: 1px solid #e0e5d9; padding-left: 28px; }
+.page-contents, .related-pages { display: flex; flex-direction: column; }
+.mobile-page-contents { display: none; }
+.page-contents .eyebrow, .related-pages .eyebrow { margin-bottom: 13px; }
+.page-contents a, .related-pages a { display: flex; align-items: center; justify-content: space-between; gap: 13px; padding-block: 11px; font-size: 14px; line-height: 1.5; }
+.page-contents a:hover, .related-pages a:hover { text-decoration: underline; text-underline-offset: 4px; }
+.visit-card { margin: 31px 0; padding: 23px; background: #f3f4f0; }
+.visit-card h2 { font-size: 25px; margin: 13px 0 17px; }
+.visit-card p { color: #58624d; font-size: 14px; line-height: 1.8; margin-bottom: 14px; }
+.visit-card p svg { display: inline; vertical-align: middle; margin-right: 6px; }
+.visit-card .text-link { font-size: 13px; }
+.people-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 15px; margin-top: 24px; }
+.person { border: 1px solid #e0e5d9; }
+.person-copy { padding: 23px; }
+.person-role { font-size: 13px; color: #68715e; }
+.person h3 { font-size: 21px; font-weight: 600; line-height: 1.4; margin-top: 7px; }
+.person p { color: #68715e; font-size: 14px; line-height: 1.7; margin-top: 12px; }
+.person > img { width: 100%; height: 210px; object-fit: contain; background: #f3f4f0; }
+.club-timeline { list-style: none; margin: 28px 0 0; padding: 0; }
+.club-timeline li { display: grid; grid-template-columns: 82px 1fr; gap: 22px; padding-bottom: 29px; }
+.timeline-year { font-size: 26px; font-weight: 650; color: #655800; letter-spacing: -.045em; }
+.club-timeline li > div { border-left: 2px solid #e5d989; padding-left: 24px; }
+.club-timeline h3 { font-size: 19px; font-weight: 650; margin-bottom: 8px; }
+.club-timeline p { color: #5d6852; font-size: 16px; line-height: 1.8; }
+.mobile-nav nav { max-height: min(65vh, 460px); overflow-y: auto; overscroll-behavior: contain; }
+@media (max-width: 1100px) {
+  .reading-grid { gap: 35px; grid-template-columns: minmax(0, 2fr) minmax(210px, 1fr); }
+  .content-aside { padding-left: 22px; }
+  .content-cards { gap: 16px; }
+  .content-card-copy { padding: 20px; }
+}
+@media (max-width: 760px) {
+  .interior-heading { padding-block: 20px 37px; }
+  .breadcrumbs { margin-bottom: 27px; font-size: 12px; }
+  .interior-heading h1 { font-size: clamp(2.3rem, 9.8vw, 3.3rem); }
+  .interior-lead { font-size: 16px; }
+  .interior-content { padding-block: 35px 48px; }
+  .content-cards { grid-template-columns: 1fr; margin-bottom: 42px; gap: 15px; }
+  .content-card-copy { padding: 23px; }
+  .content-card h2 { font-size: 23px; }
+  .reading-grid { grid-template-columns: 1fr; gap: 40px; }
+  .content-aside { border-left: 0; border-top: 1px solid #dce0d5; padding: 29px 0 0; }
+  .article-section > h2 { font-size: 27px; }
+  .article-section > p, .content-bullets { font-size: 16px; }
+  .article-section { margin-bottom: 35px; }
+  .article-photo { margin-bottom: 31px; }
+  .page-contents a, .related-pages a { min-height: 44px; }
+  .content-aside .page-contents { display: none; }
+  .mobile-page-contents { display: flex; padding-bottom: 24px; margin-bottom: 30px; border-bottom: 1px solid #dce0d5; }
+  .visit-card { padding: 25px; }
+  .people-grid { grid-template-columns: 1fr; }
+  .honor-grid .person { display: grid; grid-template-columns: 95px minmax(0, 1fr); align-items: start; }
+  .honor-grid .person > img { width: 95px; height: 130px; margin-top: 15px; background: #fff; }
+  .honor-grid .person-copy { padding: 17px; }
+  .honor-grid h3 { font-size: 19px; }
+  .club-timeline li { grid-template-columns: 58px 1fr; gap: 13px; }
+  .timeline-year { font-size: 23px; }
+  .club-timeline li > div { padding-left: 17px; }
+  .footer-directory { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 30px 20px; }
+  .footer-directory nav:last-child { grid-column: 1 / -1; }
+  .footer-directory a { min-height: 44px; }
+}

@@ -1,0 +1,1296 @@
+[
+  {
+    "slug": "about",
+    "title": "A club built on good company.",
+    "kicker": "MEET MID-WEST CORVETTES",
+    "lead": "Since 1960, a shared love of the Corvette has brought people together across the Quad Cities and beyond.",
+    "group": "club",
+    "sections": [
+      {
+        "title": "Corvettes, friends, community.",
+        "paragraphs": [
+          "Mid-West Corvettes, Inc. is an Illinois not-for-profit club organized around the enjoyment of the Chevrolet Corvette. Our members make room for everything from a scenic drive and a relaxed lunch to rallies, car shows, and helping our neighbors.",
+          "We are a charter member of the National Council of Corvette Clubs. Our home is the Quad Cities, with members and activities on both sides of the Mississippi."
+        ]
+      },
+      {
+        "title": "A place to start",
+        "paragraphs": [
+          "Come to a monthly meeting as our guest. You can meet the members, learn about upcoming activities, and decide whether the club is right for you."
+        ],
+        "links": [
+          {
+            "label": "Explore membership",
+            "href": "/membership/"
+          }
+        ]
+      }
+    ],
+    "cards": [
+      {
+        "title": "Our history",
+        "description": "Meet the people and moments that started it all.",
+        "href": "/history/"
+      },
+      {
+        "title": "Club leadership",
+        "description": "Our board of directors and chairpersons.",
+        "href": "/mwc-board/"
+      },
+      {
+        "title": "Hall of Honor",
+        "description": "Recognizing exceptional service and lasting friendships.",
+        "href": "/hall-of-honor/"
+      },
+      {
+        "title": "Community",
+        "description": "How our members give something back.",
+        "href": "/community/"
+      },
+      {
+        "title": "Save the Wave",
+        "description": "A small gesture with a long Corvette tradition.",
+        "href": "/save-the-wave/"
+      },
+      {
+        "title": "Club resources",
+        "description": "Documents, affiliates, apparel, and member help.",
+        "href": "/resources/"
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/membership/",
+      "https://mwcorvettes.com/history/"
+    ]
+  },
+  {
+    "slug": "membership",
+    "title": "Your next chapter starts here.",
+    "kicker": "JOIN THE CLUB",
+    "lead": "Bring your Corvette enthusiasm. We’ll help you find the people, outings, and friendships that make MWC your own.",
+    "group": "membership",
+    "sections": [
+      {
+        "title": "Visit a meeting",
+        "paragraphs": [
+          "Prospective members are welcome on the first Tuesday of the month at 6:30 pm at Eriksen Chevrolet, 325 1st Ave E, Milan, Illinois. Join us as a guest, ask questions, and get to know the club. Many members gather for dinner afterward."
+        ]
+      },
+      {
+        "title": "Make it official",
+        "paragraphs": [
+          "When you’re ready, complete both the MWC and NCCC applications. Bring them to a meeting; board members can also provide forms and help you through the process. Contact our membership director for current dues and application questions."
+        ],
+        "links": [
+          {
+            "label": "MWC membership application · PDF",
+            "href": "https://mwcorvettes.s3.us-east-2.amazonaws.com/2025/10/Membership-Application-2026.pdf"
+          },
+          {
+            "label": "NCCC membership application · PDF",
+            "href": "https://www.corvettesnccc.org/Membership/MembershipApplication.pdf"
+          },
+          {
+            "label": "Email Cindy Kuehner, membership director",
+            "href": "mailto:cindylkuehner@gmail.com"
+          }
+        ]
+      },
+      {
+        "title": "What membership brings",
+        "paragraphs": [],
+        "bullets": [
+          "Friendships with fellow Corvette enthusiasts.",
+          "Drive-outs, social gatherings, rallies, car shows, and community activities.",
+          "Access to the existing member website and its club information.",
+          "An introduction to a new-member ambassador to help you get settled."
+        ]
+      },
+      {
+        "title": "Already joined?",
+        "paragraphs": [
+          "Start with our new-member guide for email updates, member access, and ways to get involved."
+        ],
+        "links": [
+          {
+            "label": "Your new-member guide",
+            "href": "/new-member/"
+          }
+        ]
+      }
+    ],
+    "image": {
+      "file": "club-anniversary.jpg",
+      "alt": "Members and Corvettes at the club’s 50th anniversary gathering",
+      "caption": "Come make some memories with us.",
+      "width": 1280,
+      "height": 790
+    },
+    "sources": [
+      "https://mwcorvettes.com/membership/"
+    ]
+  },
+  {
+    "slug": "history",
+    "title": "The miles behind us.",
+    "kicker": "OUR STORY · SINCE 1960",
+    "lead": "One idea, a handful of Corvette owners, and a friendship that has carried through generations.",
+    "group": "club",
+    "sections": [
+      {
+        "title": "It started with Paul Castle",
+        "paragraphs": [
+          "In 1960, 22-year-old Paul Castle set out to organize a club for Corvette owners. The first organizational meeting was held on May 15, 1960. His announcement described a club devoted to safe sporting and social activities centered on the Corvette."
+        ]
+      },
+      {
+        "title": "A few stops along the way",
+        "paragraphs": [],
+        "timeline": [
+          {
+            "year": "1960",
+            "title": "The first gathering",
+            "body": "The club adopted its constitution in May and organized its first fall rally later that year."
+          },
+          {
+            "year": "1980",
+            "title": "Twenty years together",
+            "body": "Members marked the anniversary with a group photograph at Warren Chevrolet."
+          },
+          {
+            "year": "1985",
+            "title": "A silver anniversary",
+            "body": "Paul Castle created a new club logo for MWC’s 25th anniversary."
+          },
+          {
+            "year": "1987",
+            "title": "Still growing",
+            "body": "The club gathered for another photograph at Bob Eriksen Chevrolet."
+          },
+          {
+            "year": "2002",
+            "title": "A new group portrait",
+            "body": "Members and cars came together at the Moline airport."
+          },
+          {
+            "year": "2010",
+            "title": "Fifty years of memories",
+            "body": "A commemorative logo and anniversary gathering celebrated half a century."
+          },
+          {
+            "year": "2016",
+            "title": "Corvettes, friends, and community",
+            "body": "More than 100 members gathered for the club’s 56th birthday and 34 years of Eriksen Chevrolet sponsorship."
+          }
+        ]
+      },
+      {
+        "title": "The people behind the history",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Visit the Hall of Honor",
+            "href": "/hall-of-honor/"
+          },
+          {
+            "label": "Explore the original historical photo archive",
+            "href": "https://mwcorvettes.com/history/"
+          }
+        ]
+      }
+    ],
+    "image": {
+      "file": "history-1960.jpg",
+      "alt": "Early Mid-West Corvettes gathering in 1960",
+      "caption": "An early gathering from the club’s 1960 photo archive.",
+      "width": 980,
+      "height": 703
+    },
+    "sources": [
+      "https://mwcorvettes.com/history/"
+    ]
+  },
+  {
+    "slug": "events",
+    "title": "There’s always another reason to get together.",
+    "kicker": "ON THE CALENDAR",
+    "lead": "Find a drive-out, a social evening, or a chance to put your Corvette through its paces.",
+    "group": "activities",
+    "sections": [
+      {
+        "title": "Make your next plan",
+        "paragraphs": [
+          "The club calendar carries current dates, meeting points, hosts, and event details. Check the individual listing before leaving, especially when a destination is still being arranged."
+        ],
+        "links": [
+          {
+            "label": "Open the current club calendar",
+            "href": "https://mwcorvettes.com/club-events/"
+          }
+        ]
+      },
+      {
+        "title": "New to the club?",
+        "paragraphs": [
+          "A monthly meeting is a good first stop. Come as a guest, hear about what’s coming up, and meet someone who can introduce you to your first outing."
+        ],
+        "links": [
+          {
+            "label": "Plan your first visit",
+            "href": "/membership/"
+          }
+        ]
+      }
+    ],
+    "primary": {
+      "label": "Open club calendar",
+      "href": "https://mwcorvettes.com/club-events/"
+    },
+    "cards": [
+      {
+        "title": "Drive-outs",
+        "description": "From a few hours on local roads to a weekend away.",
+        "href": "/drive-outs/"
+      },
+      {
+        "title": "Rallies",
+        "description": "A driver, a navigator, and a route to work out together.",
+        "href": "/rallys/"
+      },
+      {
+        "title": "Autocross",
+        "description": "Timed runs through a cone course.",
+        "href": "/low-speed/"
+      },
+      {
+        "title": "Parades",
+        "description": "Share the Corvette with our Quad Cities neighbors.",
+        "href": "/parades/"
+      },
+      {
+        "title": "Social gatherings",
+        "description": "Breakfasts, picnics, cards, and company year-round.",
+        "href": "/social/"
+      },
+      {
+        "title": "Road America",
+        "description": "A guide to the Elkhart Lake racing destination.",
+        "href": "/road-america/"
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/club-events/"
+    ]
+  },
+  {
+    "slug": "drive-outs",
+    "title": "Take the long way together.",
+    "kicker": "CLUB ACTIVITIES · DRIVE-OUTS",
+    "lead": "A favorite road is even better with a few Corvettes in the mirrors.",
+    "group": "activities",
+    "sections": [
+      {
+        "title": "An outing for your schedule",
+        "paragraphs": [
+          "Club drive-outs range from a few hours to several days. Same-day trips often combine scenic roads, a stop to stretch, and a meal together. Longer adventures leave time to explore a region and enjoy an evening with the group."
+        ]
+      },
+      {
+        "title": "Spring, summer, and fall",
+        "paragraphs": [
+          "Past trips have included Wisconsin and Minnesota in spring, Clear Lake in summer, and fall drives toward Winona or the Lake of the Ozarks. These are examples from the club’s travel history; this year’s plans and reservations are in the calendar."
+        ]
+      },
+      {
+        "title": "Before you leave",
+        "paragraphs": [
+          "Check the event listing for the meeting point and drivers’ briefing. Bring a charged handheld two-way radio so the group can share road information. Ask the organizer about radio settings and the current drive-out procedures."
+        ],
+        "links": [
+          {
+            "label": "Club documents and drive-out procedures",
+            "href": "/documents/"
+          },
+          {
+            "label": "Find a drive-out",
+            "href": "https://mwcorvettes.com/club-events/"
+          }
+        ]
+      },
+      {
+        "title": "Have a route in mind?",
+        "paragraphs": [
+          "Members help shape the outings. If you have a favorite road, restaurant, or destination, bring the idea to the club."
+        ],
+        "links": [
+          {
+            "label": "Get in touch",
+            "href": "/contact/"
+          }
+        ]
+      }
+    ],
+    "image": {
+      "file": "drive-out.jpg",
+      "alt": "Corvettes gathered during a club outing for Happy Joe’s 80th birthday",
+      "caption": "A club drive-out celebrating Happy Joe’s 80th birthday.",
+      "width": 980,
+      "height": 735
+    },
+    "sources": [
+      "https://mwcorvettes.com/drive-outs/",
+      "https://mwcorvettes.com/documents/"
+    ]
+  },
+  {
+    "slug": "rallys",
+    "title": "Two seats. One shared challenge.",
+    "kicker": "CLUB ACTIVITIES · RALLIES",
+    "lead": "Follow the clues, work with your navigator, and enjoy the road along the way.",
+    "group": "activities",
+    "sections": [
+      {
+        "title": "What is a road rally?",
+        "paragraphs": [
+          "A road rally follows instructions over public roads at legal speeds. It is a navigation and observation challenge, not a race. Some formats also ask teams to follow a timetable or match a measured distance."
+        ]
+      },
+      {
+        "title": "The spring tradition",
+        "paragraphs": [
+          "The Alan Fiscus Memorial Spring Rally helps open the club’s driving season. The club’s description includes route-and-observation challenges, poker stops, and a mileage challenge, with proceeds supporting club charity. Check the current event listing for the format, entry details, and date."
+        ]
+      },
+      {
+        "title": "Bring your navigator",
+        "paragraphs": [
+          "Read the instructions together and bring something to write with. For timed formats, bring a watch that can be synchronized to the event time. The organizer’s briefing explains the route and scoring."
+        ],
+        "links": [
+          {
+            "label": "See upcoming rallies",
+            "href": "https://mwcorvettes.com/club-events/"
+          }
+        ]
+      }
+    ],
+    "image": {
+      "file": "first-rally.jpg",
+      "alt": "The first Mid-West Corvettes fall rally in 1960",
+      "caption": "The rally tradition reaches back to the club’s first year, 1960.",
+      "width": 980,
+      "height": 648
+    },
+    "sources": [
+      "https://mwcorvettes.com/rallys/"
+    ]
+  },
+  {
+    "slug": "low-speed",
+    "title": "A little friendly competition.",
+    "kicker": "CLUB ACTIVITIES · AUTOCROSS",
+    "lead": "Explore your Corvette’s handling on a course built for the occasion.",
+    "group": "activities",
+    "sections": [
+      {
+        "title": "Low-speed, also called autocross",
+        "paragraphs": [
+          "Drivers follow a course of cones across a paved lot, navigating turns and slaloms against the clock. Runs are electronically timed. MWC’s annual event has traditionally taken place during the summer."
+        ]
+      },
+      {
+        "title": "A day at the course",
+        "paragraphs": [
+          "The club describes its autocross as an NCCC-sanctioned event, with points and trophies. The current event instructions determine participation requirements, registration, and the day’s schedule."
+        ]
+      },
+      {
+        "title": "Interested in taking part?",
+        "paragraphs": [
+          "Check the calendar and contact the club’s speed director with questions before attending."
+        ],
+        "links": [
+          {
+            "label": "Current event calendar",
+            "href": "https://mwcorvettes.com/club-events/"
+          },
+          {
+            "label": "Club directors",
+            "href": "/mwc-board/"
+          }
+        ]
+      }
+    ],
+    "image": {
+      "file": "autocross.jpg",
+      "alt": "A car participating in an MWC low-speed event",
+      "caption": "From the club’s 2012 low-speed event archive.",
+      "compact": true,
+      "width": 400,
+      "height": 284
+    },
+    "sources": [
+      "https://mwcorvettes.com/low-speed/"
+    ]
+  },
+  {
+    "slug": "parades",
+    "title": "A Corvette-sized welcome.",
+    "kicker": "CLUB ACTIVITIES · PARADES",
+    "lead": "For the people along the route and the members behind the wheel, this is a day to enjoy together.",
+    "group": "activities",
+    "sections": [
+      {
+        "title": "Part of the celebration",
+        "paragraphs": [
+          "MWC has participated in Memorial Day and Fourth of July parades on both sides of the Mississippi, along with the Tug Fest parade in Le Claire. A line of Corvettes makes a memorable addition to a hometown celebration."
+        ]
+      },
+      {
+        "title": "The fun carries on",
+        "paragraphs": [
+          "Members often get together for a meal after the parade. Check the calendar for this year’s participation, staging location, arrival time, and organizer’s instructions."
+        ],
+        "links": [
+          {
+            "label": "Check the club calendar",
+            "href": "https://mwcorvettes.com/club-events/"
+          },
+          {
+            "label": "Ask about joining a parade",
+            "href": "/contact/"
+          }
+        ]
+      }
+    ],
+    "image": {
+      "file": "parade.jpg",
+      "alt": "Mid-West Corvettes participating in a Fourth of July parade",
+      "caption": "Sharing the Corvette with the community on the Fourth of July.",
+      "width": 640,
+      "height": 480
+    },
+    "sources": [
+      "https://mwcorvettes.com/parades/"
+    ]
+  },
+  {
+    "slug": "social",
+    "title": "Pull up a chair.",
+    "kicker": "CLUB ACTIVITIES · SOCIALS",
+    "lead": "The friendships keep going long after the cars are parked.",
+    "group": "activities",
+    "sections": [
+      {
+        "title": "Good company, all year",
+        "paragraphs": [
+          "The club gets together throughout the year, including when the Corvettes are tucked away for winter. Social traditions have included euchre nights, the Winter Bash potluck, picnics, and a car show and cookout at Eriksen Chevrolet."
+        ]
+      },
+      {
+        "title": "Pick your kind of gathering",
+        "paragraphs": [
+          "Some evenings are about cards and conversation; others are about sharing a meal or catching up outdoors. The calendar is the place to find current breakfasts, ice cream runs, and other gatherings."
+        ]
+      },
+      {
+        "title": "Help make it happen",
+        "paragraphs": [
+          "Members bring ideas and host activities. If you’d like to help organize a social, get in touch with the club or ask at a meeting."
+        ],
+        "links": [
+          {
+            "label": "Find a social event",
+            "href": "https://mwcorvettes.com/club-events/"
+          },
+          {
+            "label": "Meet the social director",
+            "href": "/mwc-board/"
+          }
+        ]
+      }
+    ],
+    "image": {
+      "file": "social.jpg",
+      "alt": "Members gathered at a club social at Carroll’s in 2003",
+      "caption": "A 2003 club social at Carroll’s, from the MWC archive.",
+      "compact": true,
+      "width": 400,
+      "height": 284
+    },
+    "sources": [
+      "https://mwcorvettes.com/social/"
+    ]
+  },
+  {
+    "slug": "community",
+    "title": "Good people, doing good things.",
+    "kicker": "OUR QUAD CITIES COMMUNITY",
+    "lead": "The Corvette brings us together. Helping our neighbors gives us another reason to show up.",
+    "group": "club",
+    "sections": [
+      {
+        "title": "Giving close to home",
+        "paragraphs": [
+          "MWC’s community work has included raising funds for children facing illness and helping families in the Quad Cities area. Members also rally around one another when support is needed."
+        ]
+      },
+      {
+        "title": "A history of pitching in",
+        "paragraphs": [
+          "The club’s recorded projects include bicycles and helmets for Toys for Tots, donations to Angel Tree and Coats for Kids, and support for veterans through Vettes on the River. These are examples of the club’s charitable work over the years."
+        ]
+      },
+      {
+        "title": "Be part of the next effort",
+        "paragraphs": [
+          "Look for charity events on the calendar or contact the charity director to learn where you can help."
+        ],
+        "links": [
+          {
+            "label": "See the calendar",
+            "href": "https://mwcorvettes.com/club-events/"
+          },
+          {
+            "label": "Meet the charity director",
+            "href": "/mwc-board/"
+          }
+        ]
+      }
+    ],
+    "image": {
+      "file": "community.jpg",
+      "alt": "Bicycles collected for the club’s Toys for Tots donation",
+      "caption": "A Toys for Tots project from the club’s community archive.",
+      "width": 800,
+      "height": 600
+    },
+    "sources": [
+      "https://mwcorvettes.com/community/"
+    ]
+  },
+  {
+    "slug": "mwc-board",
+    "title": "The people who keep us moving.",
+    "kicker": "CLUB LEADERSHIP",
+    "lead": "Meet the volunteers who organize activities, welcome members, and look after the club.",
+    "group": "club",
+    "sections": [
+      {
+        "title": "Board of directors",
+        "paragraphs": [],
+        "people": [
+          {
+            "name": "Patric Nichols",
+            "role": "President"
+          },
+          {
+            "name": "Jeff Olson",
+            "role": "Vice President"
+          },
+          {
+            "name": "Jan Ebert",
+            "role": "Secretary"
+          },
+          {
+            "name": "Carl Burney",
+            "role": "Treasurer"
+          },
+          {
+            "name": "Roger Miller",
+            "role": "Governor"
+          },
+          {
+            "name": "Cindy Kuehner",
+            "role": "Membership"
+          },
+          {
+            "name": "Kristin Early",
+            "role": "Social"
+          },
+          {
+            "name": "Jeff Bellmyer",
+            "role": "Speed"
+          },
+          {
+            "name": "Jeff Olson",
+            "role": "Communications"
+          },
+          {
+            "name": "Patti Bellmyer",
+            "role": "Charity"
+          }
+        ]
+      },
+      {
+        "title": "Chairpersons",
+        "paragraphs": [],
+        "people": [
+          {
+            "name": "Jess Toth",
+            "role": "Webmaster"
+          },
+          {
+            "name": "Jeff Bellmyer",
+            "role": "Car Shows"
+          },
+          {
+            "name": "Open position",
+            "role": "Publicity"
+          },
+          {
+            "name": "Open position",
+            "role": "Parades"
+          },
+          {
+            "name": "Rita Painter",
+            "role": "Quartermaster"
+          },
+          {
+            "name": "Waldo Arnholz",
+            "role": "Historian"
+          },
+          {
+            "name": "Gail Olson",
+            "role": "Sunshine"
+          }
+        ]
+      },
+      {
+        "title": "Reach the club",
+        "paragraphs": [
+          "This directory reflects the public club roster checked September 5, 2026."
+        ],
+        "links": [
+          {
+            "label": "Contact MWC",
+            "href": "/contact/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/mwc-board/"
+    ]
+  },
+  {
+    "slug": "hall-of-honor",
+    "title": "Honoring the people who shaped our club.",
+    "kicker": "HALL OF HONOR",
+    "lead": "Celebrating service, friendship, and the people who have helped shape Mid-West Corvettes.",
+    "group": "club",
+    "sections": [
+      {
+        "title": "Honoring our members",
+        "paragraphs": [
+          "The Hall of Honor recognizes members whose contributions further the club’s ideals and strengthen its community."
+        ],
+        "people": [
+          {
+            "name": "Paul Castle",
+            "role": "MWC founder",
+            "description": "November 10, 1938 – May 15, 2004",
+            "image": "honor-0.jpg"
+          },
+          {
+            "name": "Denny Waddell",
+            "role": "Lifetime member",
+            "description": "Honored for his long connection with the club.",
+            "image": "honor-1.jpg"
+          },
+          {
+            "name": "Matt Murrin",
+            "role": "Charter member",
+            "description": "September 20, 1924 – April 15, 2016. Second from the left in this archive photo.",
+            "image": "honor-2.png"
+          },
+          {
+            "name": "Randy & Jane Huber",
+            "role": "Founders of Vettes on the River",
+            "description": "Recognized for their contribution to the club and its community.",
+            "image": "honor-3.png"
+          },
+          {
+            "name": "Allan J. “Al” Fiscus",
+            "role": "Served in every board position",
+            "description": "December 28, 1947 – December 17, 2021",
+            "image": "honor-4.jpeg"
+          }
+        ]
+      },
+      {
+        "title": "More of their stories",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Visit the original Hall of Honor archive",
+            "href": "https://mwcorvettes.com/hall-of-honor/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/hall-of-honor/"
+    ]
+  },
+  {
+    "slug": "save-the-wave",
+    "title": "A small gesture. A shared tradition.",
+    "kicker": "SAVE THE WAVE",
+    "lead": "A friendly wave says you’re part of the Corvette family.",
+    "group": "club",
+    "sections": [
+      {
+        "title": "Recognition on the road",
+        "paragraphs": [
+          "MWC supports the longstanding custom of Corvette drivers greeting one another as they pass. It is a simple way to acknowledge a shared enthusiasm, whether you know the other driver or not."
+        ]
+      },
+      {
+        "title": "Keep it friendly",
+        "paragraphs": [
+          "If you see another Corvette and it’s safe to do so, offer a wave. A small gesture from the steering wheel is enough. Keep your attention on driving, and don’t worry if the other person misses it."
+        ]
+      },
+      {
+        "title": "A tradition in print",
+        "paragraphs": [
+          "The club’s original page preserves an article from the August–September 1969 issue of Corvette News and wave etiquette credited to Dan Woomer of Lost Caravan Corvette Club."
+        ],
+        "links": [
+          {
+            "label": "Read the original articles",
+            "href": "https://mwcorvettes.com/save-the-wave/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/save-the-wave/"
+    ]
+  },
+  {
+    "slug": "contact",
+    "title": "We’d love to hear from you.",
+    "kicker": "CONTACT MID-WEST CORVETTES",
+    "lead": "Ask about membership, an upcoming outing, or getting involved with the club.",
+    "group": "membership",
+    "sections": [
+      {
+        "title": "Membership questions",
+        "paragraphs": [
+          "Cindy Kuehner is the club’s membership director. Get in touch about applications, current dues, or visiting a meeting."
+        ],
+        "links": [
+          {
+            "label": "Email the membership director",
+            "href": "mailto:cindylkuehner@gmail.com"
+          }
+        ]
+      },
+      {
+        "title": "General club questions",
+        "paragraphs": [
+          "Use the club’s existing contact form to send a general inquiry."
+        ],
+        "links": [
+          {
+            "label": "Open the club contact form",
+            "href": "https://mwcorvettes.com/contact/"
+          }
+        ]
+      },
+      {
+        "title": "Website and member access",
+        "paragraphs": [
+          "For help with member access or website information, contact the webmaster."
+        ],
+        "links": [
+          {
+            "label": "Email the webmaster",
+            "href": "mailto:webmaster@mwcorvettes.com"
+          }
+        ]
+      },
+      {
+        "title": "Meet us in Milan",
+        "paragraphs": [
+          "First Tuesday of the month at 6:30 pm.",
+          "Eriksen Chevrolet · 325 1st Ave E · Milan, IL 61264"
+        ],
+        "links": [
+          {
+            "label": "Get directions",
+            "href": "https://www.google.com/maps/search/?api=1&query=Eriksen+Chevrolet+325+1st+Ave+E+Milan+IL+61264"
+          }
+        ]
+      },
+      {
+        "title": "Looking for a parts order?",
+        "paragraphs": [
+          "Mid-West Corvettes is a car club and does not sell Corvette parts. Please contact your retailer for questions about an order."
+        ]
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/contact/",
+      "https://mwcorvettes.com/membership/",
+      "https://mwcorvettes.com/new-member/"
+    ]
+  },
+  {
+    "slug": "documents",
+    "title": "The useful paperwork.",
+    "kicker": "CLUB DOCUMENTS",
+    "lead": "Membership applications, club governance, and event waivers in one place.",
+    "group": "resources",
+    "sections": [
+      {
+        "title": "Membership applications",
+        "paragraphs": [
+          "New members need both the MWC and NCCC applications."
+        ],
+        "links": [
+          {
+            "label": "2026 MWC membership application",
+            "href": "https://mwcorvettes.s3.us-east-2.amazonaws.com/2025/10/Membership-Application-2026.pdf",
+            "description": "PDF · Club membership"
+          },
+          {
+            "label": "NCCC membership application",
+            "href": "https://www.corvettesnccc.org/Membership/MembershipApplication.pdf",
+            "description": "PDF · National organization"
+          }
+        ]
+      },
+      {
+        "title": "Club governance",
+        "paragraphs": [
+          "These links open the documents maintained on the original club website. Use the current documents for the complete rules and procedures."
+        ],
+        "links": [
+          {
+            "label": "MWC Constitution",
+            "href": "https://mwcorvettes.s3.us-east-2.amazonaws.com/2025/11/CONSTITUTION-OF-MID-WEST-CORVETTES-INC.2025.pdf",
+            "description": "PDF · 2025 file"
+          },
+          {
+            "label": "MWC By-Laws",
+            "href": "https://mwcorvettes.s3.us-east-2.amazonaws.com/2025/11/BYLAWS-of-Mid-West-Corvettes-2025.pdf",
+            "description": "PDF · 2025 file"
+          },
+          {
+            "label": "Standard Operating Procedures",
+            "href": "https://mwcorvettes.s3.us-east-2.amazonaws.com/2024/02/Mid-West-Corvettes-SOP.pdf",
+            "description": "PDF · Includes drive-out procedures"
+          }
+        ]
+      },
+      {
+        "title": "Event waivers",
+        "paragraphs": [
+          "Ask the event organizer which forms apply before participating."
+        ],
+        "links": [
+          {
+            "label": "NCCC adult waiver",
+            "href": "https://www.corvettesnccc.org/Insurance/insurance_lin_form_waiver.pdf",
+            "description": "PDF"
+          },
+          {
+            "label": "NCCC combined minor waiver",
+            "href": "https://www.corvettesnccc.org/Insurance/insurance_lin_form_combined_minor.pdf",
+            "description": "PDF"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/documents/"
+    ]
+  },
+  {
+    "slug": "new-member",
+    "title": "You’re in. Let’s get you settled.",
+    "kicker": "WELCOME, NEW MEMBERS",
+    "lead": "A few first steps will help you hear the news, meet the people, and make the most of MWC.",
+    "group": "membership",
+    "sections": [
+      {
+        "title": "01 · Get the club emails",
+        "paragraphs": [
+          "The club uses Mailchimp for member news and updates. Use the existing signup page to add yourself to the club’s mailing list."
+        ],
+        "links": [
+          {
+            "label": "Open the club email signup",
+            "href": "https://mwcorvettes.com/mailchimp-signup/"
+          }
+        ]
+      },
+      {
+        "title": "02 · Find your way around",
+        "paragraphs": [
+          "Use the existing member website for private club information. Sign in with your username or email and password. If you need to reset your password, use the lost-password option there and check your spam folder for the email."
+        ],
+        "links": [
+          {
+            "label": "Visit the member website",
+            "href": "https://mwcorvettes.com/"
+          },
+          {
+            "label": "Email the webmaster for help",
+            "href": "mailto:webmaster@mwcorvettes.com"
+          }
+        ]
+      },
+      {
+        "title": "03 · Put something on the calendar",
+        "paragraphs": [
+          "Come to a meeting, choose an outing, and introduce yourself. A new-member ambassador can help you get acquainted."
+        ],
+        "links": [
+          {
+            "label": "Explore club activities",
+            "href": "/events/"
+          },
+          {
+            "label": "Meet the board",
+            "href": "/mwc-board/"
+          }
+        ]
+      },
+      {
+        "title": "04 · Get ready for a drive-out",
+        "paragraphs": [
+          "Check the meeting location and organizer’s instructions, and review the club’s two-way-radio and drive-out procedures."
+        ],
+        "links": [
+          {
+            "label": "Read the club documents",
+            "href": "/documents/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/new-member/",
+      "https://mwcorvettes.com/membership/",
+      "https://mwcorvettes.com/documents/"
+    ]
+  },
+  {
+    "slug": "nccc",
+    "title": "Part of a bigger Corvette family.",
+    "kicker": "NATIONAL COUNCIL OF CORVETTE CLUBS",
+    "lead": "MWC is a charter member of NCCC, connecting our club with fellow enthusiasts around the country.",
+    "group": "resources",
+    "sections": [
+      {
+        "title": "Our national connection",
+        "paragraphs": [
+          "The National Council of Corvette Clubs was founded in 1959 as an all-volunteer organization. Its purpose includes encouraging Corvette ownership and enjoyment, sharing information, and supporting activities among clubs.",
+          "Mid-West Corvettes is identified as club MW-054."
+        ]
+      },
+      {
+        "title": "Membership and information",
+        "paragraphs": [
+          "NCCC membership is part of the MWC application process. Visit the national organization for its current programs, membership details, and event information."
+        ],
+        "links": [
+          {
+            "label": "Visit NCCC",
+            "href": "https://www.corvettesnccc.org/"
+          },
+          {
+            "label": "NCCC membership application · PDF",
+            "href": "https://www.corvettesnccc.org/Membership/MembershipApplication.pdf"
+          },
+          {
+            "label": "Join Mid-West Corvettes",
+            "href": "/membership/"
+          }
+        ]
+      },
+      {
+        "title": "For the next generation",
+        "paragraphs": [],
+        "links": [
+          {
+            "label": "Future Corvette Owners Association",
+            "href": "/fcoa/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/nccc/"
+    ]
+  },
+  {
+    "slug": "fcoa",
+    "title": "The next generation of Corvette fans.",
+    "kicker": "FUTURE CORVETTE OWNERS ASSOCIATION",
+    "lead": "Introduce the younger members of your family to a hobby they can grow with.",
+    "group": "resources",
+    "sections": [
+      {
+        "title": "A Corvette club for kids",
+        "paragraphs": [
+          "The Future Corvette Owners Association is NCCC’s youth organization. It began in 1991 and became the official junior organization in 1992, giving young enthusiasts a way to share in the Corvette hobby."
+        ]
+      },
+      {
+        "title": "Learn about joining",
+        "paragraphs": [
+          "The club’s introduction describes FCOA for children under 16. Visit the FCOA website for current eligibility, fees, benefits, and application instructions."
+        ],
+        "links": [
+          {
+            "label": "Visit the FCOA website",
+            "href": "https://www.corvettesnccc.org/fcoa1.html"
+          },
+          {
+            "label": "Ask our membership director",
+            "href": "mailto:cindylkuehner@gmail.com"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/fcoa/"
+    ]
+  },
+  {
+    "slug": "road-america",
+    "title": "A day at the races.",
+    "kicker": "ELKHART LAKE, WISCONSIN",
+    "lead": "Discover the road course that has drawn sports-car enthusiasts for generations.",
+    "group": "activities",
+    "sections": [
+      {
+        "title": "A destination with history",
+        "paragraphs": [
+          "Road America opened in 1955 near Elkhart Lake, Wisconsin. Its original 4.048-mile, 14-turn course follows the area’s natural hills and terrain. The club’s archive includes visits and planning information for this longstanding racing destination."
+        ]
+      },
+      {
+        "title": "Plan for the event you’re attending",
+        "paragraphs": [
+          "Use Road America’s official site for current racing schedules, tickets, visitor information, and driving programs. The dates on MWC’s original 2023 article are historical."
+        ],
+        "links": [
+          {
+            "label": "Road America event schedule",
+            "href": "https://www.roadamerica.com/events"
+          },
+          {
+            "label": "Road America visitor information",
+            "href": "https://www.roadamerica.com/"
+          }
+        ]
+      },
+      {
+        "title": "Going with the club?",
+        "paragraphs": [
+          "Check the club calendar or ask at a meeting whether members are planning a trip. Confirm any Corvette Corral parking arrangements with the event organizer before traveling."
+        ],
+        "links": [
+          {
+            "label": "Club calendar",
+            "href": "https://mwcorvettes.com/club-events/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/road-america/"
+    ]
+  },
+  {
+    "slug": "photos",
+    "title": "The miles. The memories.",
+    "kicker": "CLUB PHOTO ALBUMS",
+    "lead": "Real cars, familiar faces, and the places we’ve explored together.",
+    "group": "club",
+    "sections": [
+      {
+        "title": "Keep exploring",
+        "paragraphs": [
+          "The club’s full photo collection is hosted on Flickr. Browse the albums for more gatherings, drive-outs, and events through the years."
+        ],
+        "links": [
+          {
+            "label": "Open all club albums",
+            "href": "https://www.flickr.com/photos/145199657@N05/albums"
+          }
+        ]
+      }
+    ],
+    "primary": {
+      "label": "Browse the Flickr albums",
+      "href": "https://www.flickr.com/photos/145199657@N05/albums"
+    },
+    "cards": [
+      {
+        "title": "Our cars. Our people.",
+        "description": "A club gathering from the MWC collection.",
+        "href": "https://www.flickr.com/photos/145199657@N05/albums",
+        "image": "club-aerial.jpg"
+      },
+      {
+        "title": "Fifty years together",
+        "description": "The club’s 2010 anniversary gathering.",
+        "href": "/history/",
+        "image": "club-anniversary.jpg"
+      },
+      {
+        "title": "The early days",
+        "description": "A gathering in 1960.",
+        "href": "/history/",
+        "image": "history-1960.jpg"
+      },
+      {
+        "title": "On the road",
+        "description": "A drive-out for Happy Joe’s 80th birthday.",
+        "href": "/drive-outs/",
+        "image": "drive-out.jpg"
+      },
+      {
+        "title": "In the community",
+        "description": "A Fourth of July parade.",
+        "href": "/parades/",
+        "image": "parade.jpg"
+      },
+      {
+        "title": "Giving together",
+        "description": "A Toys for Tots project.",
+        "href": "/community/",
+        "image": "community.jpg"
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/",
+      "https://mwcorvettes.com/history/"
+    ]
+  },
+  {
+    "slug": "corvettes-for-sale",
+    "title": "Find a Corvette. Pass one along.",
+    "kicker": "BUY / SELL",
+    "lead": "The club’s marketplace connects people looking for Corvettes and accessories.",
+    "group": "resources",
+    "sections": [
+      {
+        "title": "Browse the current listings",
+        "paragraphs": [
+          "For-sale and wanted listings are visible to the public on the original club website. Visit that page for the latest advertisements and seller information."
+        ],
+        "links": [
+          {
+            "label": "Open current Buy / Sell listings",
+            "href": "https://mwcorvettes.com/corvettes-for-sale/"
+          }
+        ]
+      },
+      {
+        "title": "Have something to list?",
+        "paragraphs": [
+          "MWC members may list Corvettes and accessories free of charge. Use the existing selling form to submit your details and photographs. The original page also has a wanted-to-buy form."
+        ],
+        "links": [
+          {
+            "label": "Open the listing forms",
+            "href": "https://mwcorvettes.com/corvettes-for-sale/"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/corvettes-for-sale/"
+    ]
+  },
+  {
+    "slug": "resources",
+    "title": "Keep the useful things close.",
+    "kicker": "CLUB RESOURCES",
+    "lead": "Forms, member help, and connections beyond the club.",
+    "group": "resources",
+    "sections": [
+      {
+        "title": "Apparel and more",
+        "paragraphs": [
+          "The club’s original website links to apparel suppliers through its Apparel menu. Use that page for the current stores and ordering options."
+        ],
+        "links": [
+          {
+            "label": "Visit the club’s apparel links",
+            "href": "https://mwcorvettes.com/"
+          },
+          {
+            "label": "National Corvette Museum",
+            "href": "https://www.corvettemuseum.org/"
+          }
+        ]
+      },
+      {
+        "title": "Member website help",
+        "paragraphs": [
+          "Member records, email signup, account updates, and older website tips remain on the existing club website."
+        ],
+        "links": [
+          {
+            "label": "Visit the member website",
+            "href": "https://mwcorvettes.com/"
+          },
+          {
+            "label": "Original website tips",
+            "href": "https://mwcorvettes.com/website-tips/"
+          },
+          {
+            "label": "Email the webmaster",
+            "href": "mailto:webmaster@mwcorvettes.com"
+          }
+        ]
+      }
+    ],
+    "cards": [
+      {
+        "title": "Documents",
+        "description": "Applications, constitution, by-laws, procedures, and waivers.",
+        "href": "/documents/"
+      },
+      {
+        "title": "New-member guide",
+        "description": "Email updates, member access, and your first activities.",
+        "href": "/new-member/"
+      },
+      {
+        "title": "NCCC",
+        "description": "Our national Corvette club connection.",
+        "href": "/nccc/"
+      },
+      {
+        "title": "FCOA",
+        "description": "A place for the next generation of Corvette fans.",
+        "href": "/fcoa/"
+      },
+      {
+        "title": "Buy / Sell",
+        "description": "Current listings and the club’s submission forms.",
+        "href": "/corvettes-for-sale/"
+      },
+      {
+        "title": "Road America",
+        "description": "Race weekends and visitor planning.",
+        "href": "/road-america/"
+      }
+    ],
+    "sources": [
+      "https://mwcorvettes.com/",
+      "https://mwcorvettes.com/documents/",
+      "https://mwcorvettes.com/new-member/"
+    ]
+  }
+]

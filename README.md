@@ -1,6 +1,6 @@
-# Mid-West Corvettes homepage prototype
+# Mid-West Corvettes website redesign
 
-A responsive homepage concept for Mid-West Corvettes, Inc. Built in the MWC project using React, Vinext, and CSS.
+A responsive website redesign for Mid-West Corvettes, Inc. Built in the MWC project using React, Vinext, and CSS.
 
 ## Local development
 
@@ -20,7 +20,13 @@ The existing private Sites preview remains a separate deployment. `npm run build
 
 ## Prototype scope
 
-The homepage includes club information, event highlights, membership information, and links to the current club website and photo albums. Event highlights are a static September 5, 2026 snapshot, not a synchronized feed. Member login, the full calendar, applications, contact, and albums use existing services.
+The site has a homepage and 22 public content pages, adapted from the existing club site on September 5, 2026. Club history, leadership, Hall of Honor, membership, activities, community, documents, affiliates, photos, and member help share the same navigation and mobile layout. Long pages include section links and a mobile back-to-top button.
+
+Page copy and source references live in `lib/content-pages.json`. Shared page rendering lives in `app/[slug]/page.tsx`. Update the content file to maintain titles, text, links, officers, and resources.
+
+Homepage event highlights are a static September 5, 2026 snapshot, not a synchronized feed. The authoritative calendar, member accounts, contact and marketplace submission forms, PDF applications, and full Flickr albums continue using their existing services. Historical activities are described as history; old trip dates are not presented as upcoming events.
+
+The Pages build checks every page, internal destination, section anchor, and image/script asset. It exports flat HTML and adds directory indexes because the current Vinext version redirects its own prerender requests when `trailingSlash` is enabled.
 
 Before a full launch, confirm meeting details and membership requirements with the club, choose the authoritative calendar, and connect homepage events to that source.
 
@@ -39,4 +45,4 @@ Assets were sourced from the club's existing public website for this requested r
 - https://mwcorvettes.com/membership/
 - https://mwcorvettes.com/club-events/
 
-Public homepage content only; no member records, authentication, or private data have been copied.
+Public content only; no member records, authentication, or private data have been copied. See [content inventory](docs/content-inventory.md) for the migrated pages and additional image sources.

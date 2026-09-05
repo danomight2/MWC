@@ -2,6 +2,7 @@
 
 import { useEffect, useRef } from 'react';
 import { Menu, X } from 'lucide-react';
+import { sitePath } from '@/lib/site-links';
 
 export function MobileNavigation() {
   const menu = useRef<HTMLDetailsElement>(null);
@@ -29,8 +30,8 @@ export function MobileNavigation() {
     <nav aria-label="Mobile navigation" onClick={event => {
       if ((event.target as HTMLElement).closest('a') && menu.current) menu.current.open = false;
     }}>
-      <a href="#about">The Club</a><a href="#events">Events</a><a href="#photos">Photos</a><a href="#membership">Membership</a>
-      <a href="https://mwcorvettes.com/contact/">Contact</a><a href="https://mwcorvettes.com/">Visit member site</a>
+      <a href={sitePath('/')}>Home</a><a href={sitePath('/about/')}>The Club</a><a href={sitePath('/events/')}>Events</a><a href={sitePath('/photos/')}>Photos</a><a href={sitePath('/membership/')}>Membership</a>
+      <a href={sitePath('/resources/')}>Resources</a><a href={sitePath('/contact/')}>Contact</a><a href="https://mwcorvettes.com/">Visit member site</a>
     </nav>
   </details>;
 }
