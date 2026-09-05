@@ -29,6 +29,7 @@ Before a full launch, confirm meeting details and membership requirements with t
 Assets were sourced from the club's existing public website for this requested redesign. No ownership transfer or third-party license is implied.
 
 - Logo: https://mwcorvettes.s3.us-east-2.amazonaws.com/2022/05/mwc-logo-100.png
+- High-resolution header logo: https://mwcorvettes.com/wp-content/uploads/2016/02/mwc-logo-400.png
 - Aerial club photograph: https://mwcorvettes.s3.us-east-2.amazonaws.com/2025/07/thumbnail_DJI_0385-Center-del-edit-2.jpg
 - 50th anniversary photograph: https://mwcorvettes.com/wp-content/uploads/2015/02/mwc-50-anniversary-1280x790.jpg
 
